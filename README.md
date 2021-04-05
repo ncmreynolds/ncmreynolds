@@ -1,5 +1,3 @@
-# About Nick's work
-
 It's all kind of sparse in here right now, I'm slowly documenting existing work stored elsewhere so it is fit for public consumption.
 
 Most of the things I build are interactive props and devices for use in Live Action Roleplaying games (LARP).
